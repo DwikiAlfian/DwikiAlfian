@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DwikiAlfian/static/css/main.a8b0a31b.css",
+    "main.js": "/DwikiAlfian/static/js/main.ba533911.js",
+    "index.html": "/DwikiAlfian/index.html",
+    "main.a8b0a31b.css.map": "/DwikiAlfian/static/css/main.a8b0a31b.css.map",
+    "main.ba533911.js.map": "/DwikiAlfian/static/js/main.ba533911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8b0a31b.css",
+    "static/js/main.ba533911.js"
+  ]
+}
