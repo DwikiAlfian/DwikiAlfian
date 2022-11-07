@@ -1,7 +1,7 @@
 import HeaderBar from "./components/bar/HeaderBar";
 import Header from "./components/header/Header";
 import List from "./components/list/List";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { MemoryRouter as Router, Routes, Route } from "react-router-dom";
 
 import { Helmet } from "react-helmet";
 
